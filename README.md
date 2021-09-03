@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @machine411root # I am a wired and lonely ravenclaw witch
-- 👀 I’m interested in ... # artificial intelligence 
+- 👀 I’m interested in ... # Artificial Intelligence 
 - 🌱 I’m currently learning ... #Reviewing CS:APP
-- 💞️ I’m looking to collaborate on ... #leave me alone
+- 💞️ I’m looking to collaborate on ... #Leave me alone
 - 📫 How to reach me ...#dont reach me
 
 <!---
